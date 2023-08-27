@@ -4,8 +4,8 @@
 
 ### 1. Cocktail-MBTI
 다양한 칵테일과 같이 알아보는 MBTI  
-- [프로젝트](https://github.com/Public-Luna/Cocktail-MBTI)  
-- [가이드 프로젝트](https://github.com/Public-Luna/Cocktail-MBTI-Guild-Project)  
+1. [프로젝트](https://github.com/Public-Luna/Cocktail-MBTI)  
+2. [가이드 프로젝트](https://github.com/Public-Luna/Cocktail-MBTI-Guild-Project)  
 
 | Name | Role |
 | ---- | ---- |
